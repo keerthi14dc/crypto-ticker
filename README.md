@@ -11,7 +11,7 @@ A professional cryptocurrency price tracker with live market data, portfolio val
 
 ## 🎯 Live Demo
 
-![Crypto Ticker](https://github.com/keerthi14dc/crypto-ticker/blob/main/output.png?raw=true)
+![Crypto Ticker](https://github.com/keerthi14dc/crypto-ticker/blob/main/terminal-demo.png?raw=true)
 
 *Real-time cryptocurrency tracking in your terminal*
 
