@@ -1,13 +1,15 @@
-# 🪙 Real-time Crypto Ticker
+# 🪙 Real-time Crypto Tracker
 
-A Python-based cryptocurrency price tracker that displays real-time market data in your terminal.
+A professional cryptocurrency price tracker with live market data, portfolio valuation, and beautiful terminal interface.
 
-## Features
+## ✨ Features
 - Real-time price updates from CoinGecko API
-- Multiple cryptocurrency support (Bitcoin, Ethereum, Cardano)
-- Clean terminal interface
+- Color-coded market movements (green/red)
+- Portfolio value calculator
+- Auto-refresh every 15 seconds
+- Professional terminal UI with emojis
 
-## Installation
+## 🚀 Quick Start
 ```bash
 git clone https://github.com/YOUR_USERNAME/crypto-ticker.git
 cd crypto-ticker
