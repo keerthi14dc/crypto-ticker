@@ -19,10 +19,10 @@ A professional cryptocurrency price tracker with live market data, portfolio val
 
 The following dependencies are required to run this project:
 
-```txt
 requests==2.31.0
 colorama==0.4.6
 
+```txt
 ## 🚀 Quick Start
 
 ```bash
