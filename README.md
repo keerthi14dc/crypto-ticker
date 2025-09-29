@@ -15,6 +15,14 @@ A professional cryptocurrency price tracker with live market data, portfolio val
 
 *Real-time cryptocurrency tracking in your terminal*
 
+## 📋 Requirements
+
+The following dependencies are required to run this project:
+
+```txt
+requests==2.31.0
+colorama==0.4.6
+
 ## 🚀 Quick Start
 
 ```bash
