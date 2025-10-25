@@ -1,4 +1,4 @@
-# 🪙 Real-time Crypto Tracker
+# 🪙 Live Cryptocurrency Portfolio Tracker
 
 A professional cryptocurrency price tracker with live market data, portfolio valuation, and beautiful terminal + web interfaces.
 
