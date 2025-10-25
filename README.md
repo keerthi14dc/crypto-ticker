@@ -15,12 +15,12 @@ A professional cryptocurrency price tracker with live market data, portfolio val
 ## 🎯 Live Demos
 
 ### Terminal Version
-![Terminal Demo](terminal-demo.png)
+![Terminal Demo](Terminal-demo.png)
 
 ### Web Version  
 ![Web Demo](web-demo.png)
 
-![Terminal Demo](https://raw.githubusercontent.com/keerthi14dc/crypto-ticker/main/terminal-demo.png)
+![Terminal Demo](https://raw.githubusercontent.com/keerthi14dc/crypto-ticker/main/Terminal-demo.png)
 
 *Professional terminal interface with real-time crypto prices*
 
