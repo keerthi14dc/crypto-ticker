@@ -18,8 +18,12 @@ A professional cryptocurrency price tracker with live market data, portfolio val
 ![Terminal Demo](Terminal-demo.png)
 
 ### Web Version  
-![Web Demo](web_app.png)
-web_app_2.png
+
+### Portfolio Page
+![Portfolio Page](page_1.png)
+
+### Market Prices Page  
+![Market Prices Page](page_2.png)
 
 *Professional terminal interface with real-time crypto prices*
 
