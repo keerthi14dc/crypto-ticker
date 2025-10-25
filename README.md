@@ -1,37 +1,31 @@
 # 🪙 Real-time Crypto Tracker
 
-A professional cryptocurrency price tracker with live market data, portfolio valuation, and beautiful terminal interface.
+A professional cryptocurrency price tracker with live market data, portfolio valuation, and beautiful terminal + web interfaces.
 
 ## ✨ Features
-- Real-time price updates from CoinGecko API
-- Color-coded market movements (green/red)
-- Portfolio value calculator
-- Auto-refresh every 15 seconds
-- Professional terminal UI with emojis
+- **Real-time price updates** from CoinGecko API
+- **Color-coded market movements** (green/red indicators)
+- **Portfolio value calculator** - Track your investments
+- **Auto-refresh every 15 seconds** - Always current data
+- **Dual interfaces**: Terminal + Web versions
+- **Market analytics** - Coins up/down summary
 
 ## 🎯 Live Demo
 
-![Crypto Ticker](https://github.com/keerthi14dc/crypto-ticker/blob/main/Terminal-demo.png?raw=true)
+![Terminal Demo](https://raw.githubusercontent.com/keerthi14dc/crypto-ticker/main/terminal-demo.png)
 
-*Real-time cryptocurrency tracking in your terminal*
+*Professional terminal interface with real-time crypto prices*
 
-## 📋 Requirements
-
-The following dependencies are required to run this project:
-
-requests==2.31.0
-colorama==0.4.6
-
-```txt
 ## 🚀 Quick Start
 
+### Terminal Version
 ```bash
-# Clone and run the project
+# Clone the repository
 git clone https://github.com/YOUR_USERNAME/crypto-ticker.git
 cd crypto-ticker
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the application
+# Run the terminal application
 python crypto_ticker.py
