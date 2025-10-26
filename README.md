@@ -10,8 +10,6 @@ A professional cryptocurrency price tracker with live market data, portfolio val
 - **Dual interfaces**: Terminal + Web versions
 - **Market analytics** - Coins up/down summary
 
-## 🎯 Live Demo
-
 ## 🎯 Live Demos
 
 ### Terminal Version
